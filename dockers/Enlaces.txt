@@ -1,0 +1,8 @@
+Enlaces de interés sobre dockers:
+
+  # Muestra los primeros pasos para instalar y gestionar imágenes de dockers
+-> https://www.digitalocean.com/community/tutorials/como-instalar-y-usar-docker-en-ubuntu-18-04-1-es
+
+  # Ayuda a modificar imágenes desde en local
+-> https://gsyc.urjc.es/~mortuno/lagrs/02-virtualizacion_III.pdf
+-> https://jclopex.medium.com/docker-b%C3%A1sico-primeros-pasos-c57144d18eea
