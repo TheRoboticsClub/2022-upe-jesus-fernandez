@@ -1,0 +1,19 @@
+Comandos básicos de Dockers:
+
+  -> docker run {nombre}: carga la imagen que lleve asignado el nombre que le hemos pasado.
+  -> docker search {nombre}: busca si existe la imagen con el nombre que le hemos pasado.
+  -> docker pull {nombre}: descarga la imagen con el nombre que le hemos pasado.
+  -> docker images: muestra por el terminal las imágenes que tenemos descargadas en el ordenador.
+  -> docker run -it {nombre}: ejecuta un contenedor en primer plano con el nombre que le pasamos.
+  -> docker run -d {nombre}: ejecuta un contenedor en segundo plano con el nombre que le pasamos.
+  -> docker ps: muestra los contenedores activos.
+  -> docker ps -a: nuestra los contenedores tanto activos como los inactivos.
+  -> docker ps -l: nuestra el ultimo contenedor que se ha creado.
+  -> docker start {id/nombre}: arranca un contenedor con id/nombre que le hemos pasado.
+  -> docker restart {id/nombre}: reinicia un contenedor con id/nombre que le hemos pasado.
+  -> docker stop  {id/nombre}: detiene un contenedor que se esta ejecutando, con id/nombre que le hemos pasado.
+  -> docker rm {id/nombre}: borra un contenedor con id/nombre que le hemos pasado.
+  -> docker rmi {id/nombre}: borra una imagen con id/nombre que le hemos pasado.
+  -> docker commit -m "What you did to the image" -a "Author Name" container_id repository/new_image_name: guarda los cambios del contenedor que le hemos pasado.
+  -> docker inspect {nombre}: inspecciona la imagen que lleve asignado el nombre que le hemos pasado.
+  -> docker history {nombre}: nuestra el historial de una imagen.
