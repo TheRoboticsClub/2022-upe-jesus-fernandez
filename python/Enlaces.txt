@@ -1,0 +1,6 @@
+Enlaces de interés sobre entornos virtuales:
+
+  #Entornos virtuales con virtualenv:
+  https://www.freecodecamp.org/espanol/news/entornos-virtuales-de-python-explicados-con-ejemplos/
+
+  https://docs.python.org/es/3/tutorial/venv.html
